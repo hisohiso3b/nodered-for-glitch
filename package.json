@@ -26,6 +26,6 @@
   "homepage": "https://github.com/high-u/node-red-for-glitch#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "node-red": "^0.17.5"
+    "node-red": "^1.0.4"
   }
 }
